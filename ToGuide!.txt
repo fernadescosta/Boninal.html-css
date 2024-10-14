@@ -1,0 +1,54 @@
+Guia turistico (header)
+
+Boninal (caixa grande, titulo, imagem de fundo)
+
+pagina inicial: Você está planejando viajar para Boninal? (negrito) Caso você esteja, com certeza você tem muitas dúvidas que gostaria de esclarecer. Descubra o que ver (link), onde comer (link), quais são as melhores zonas para dormir (Link) e muitos outros conselhos de outros viajantes como você. Com o nosso guia de Boninal, você poderá aproveitar sua viagem ao máximo!.
+
+Porque visitar Boninal? (negrito, grande)
+Visitar Boninal é uma oportunidade de se reconectar com a natureza e mergulhar em um ambiente de beleza exuberante e tranquilidade. A região, localizada no coração da Bahia, oferece paisagens de tirar o fôlego, com suas montanhas imponentes e formações rochosas únicas. Além disso, as trilhas que serpenteiam a vegetação nativa conduzem os visitantes a mirantes espetaculares, revelando vistas panorâmicas de vales e planaltos. Para os aventureiros, Boninal é um paraíso para o ecoturismo, com oportunidades para praticar trekking, escalada e explorar morros.
+
+Além da natureza, o charme das cidades do interior de Boninal (link) reside em sua atmosfera acolhedora e autenticidade cultural. Pequenas vilas preservam tradições seculares, com artesanatos locais, festas populares e uma culinária típica que encanta o paladar. A hospitalidade dos moradores torna a experiência ainda mais enriquecedora, permitindo que os visitantes se sintam em casa enquanto exploram os tesouros escondidos da região. Se você busca um refúgio tranquilo ou aventuras em meio à natureza, Boninal oferece o equilíbrio perfeito entre descanso e exploração. (negrito)
+
+Por onde começar? (negrito, grande)
+Se você se interessou por Boninal entre em contato conosco em nossas redes sociais (link) ou agende um voo para a região mais 
+proxima (link) 
+
+strcture:
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>ToGuide!</title>
+        <meta charset="UTF-8">
+        <meta name="description" content="Guia turistico da cidade de Boninal BA">
+        <meta name="author" conntent="Davi Miguel">
+        <meta name="keywords" content="HTML CSS"> 
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="rede.css">
+    </head>
+
+    <header>
+        <div class="logo">
+            <h2>ToGuide!</h2>
+        </div>
+        
+       <div class="input-box">
+        <input type="text" placeholder=""> </input>
+        <button class="button">Search</button>
+       </div>
+
+        <nav>
+            <ul>
+                <li><a href="http://127.0.0.1:3000/c:/Users/maquis/Documents/Davi%20html/boninal%20e%20sua%20historia%20politica.html">Boninal</a> </li>
+                <li><a href="http://127.0.0.1:3000/c:/Users/maquis/Documents/Davi%20html/redes.html">Redes</a> </li>
+            </ul>
+        </nav>
+    </header>
+
+<body>
+
+</body>
+
+    <footer>
+        <h4>&copy All Rights Reserved</h4>
+    </footer>
+</html>
